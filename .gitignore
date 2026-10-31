@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+ml-depth-pro/
+dataset/
+URDF/
+test_arm_updated/
+mask_instance/
+checkpoints/
